@@ -1,0 +1,137 @@
+h1{
+    font-family:GothicE;
+}
+.background {
+    background-image: url(/assest/WhatsApp\ Image\ 2023-01-30\ at\ 4.39.11\ PM\ \(1\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0%;
+    
+}
+.s{
+    position: relative;
+    width: 30%;
+    float: right;
+    bottom: 240px;
+    right: 30px;
+}
+.font{
+    position: relative;
+color:aliceblue;
+left: 45%;
+}
+.f1{
+    position: relative;
+    color: aliceblue;
+    font-family: Castellar;
+}
+.image{
+    position: relative;
+    padding-top: 100px;
+}
+.f2{
+    position: relative;
+    color:aliceblue;
+    font-size: 30px;
+}
+.search{
+    position: relative;
+    left: 30%;
+    bottom: 40px;
+}
+.c{
+    padding-bottom: 100px;
+    position: relative;
+    width: 30%;
+    float: right;
+    right: 30px;
+    
+    
+}
+.tit{
+    text-align:center;
+    margin: 0px;
+}
+
+.i{
+    position: relative;
+   float: left;
+    width: 30%;
+   padding-bottom: 20%;
+   left: 20px;
+}
+.iron{
+    text-align: center;
+color: aliceblue;
+font-size: 30px;
+left: 50px;
+}
+.cap{
+    position: relative;
+    padding-bottom: 500px;
+    color: aliceblue;
+    bottom: 700px;
+
+}
+.spider{
+    position: relative;
+    color: aliceblue;
+    bottom: 700px;
+}
+.bottom{
+    color: aliceblue;
+}
+.captian{
+    position: relative;
+    padding-top : 500px;
+    left: 40px;
+
+}
+.iron1{
+position: relative;
+left: 40px;
+font-size: 30px;
+width: 80%;
+}
+.i2{
+    position: relative;
+    padding-bottom: 20%;
+    font-size: 30px;
+    right: 650px;
+}
+.c1{
+    position: relative;
+    top: 270px;
+    left: 600px;
+    font-size: 40px;
+}
+.cap1{
+    position: relative;
+    left: 60px;
+    width: 60%;
+    font-size: 30px;
+    bottom: 55px;
+}
+.spidy{
+    position: relative;
+    width: 50%;
+    bottom: 350px;
+    left: 10%;
+
+}
+.s1{
+    position: relative;
+    bottom: 350px;
+    left: 16%;
+    font-size: 30px;
+}
+.bottom{
+    position: relative;
+    color: aliceblue;
+    font-size: 24px;
+    bottom: 900px;
+}
+.b1{
+    color: aliceblue;
+}
